@@ -40,7 +40,7 @@ Make a pull request to contribute with me 😉.<br>
 
 ## 📸 ScreenShots
 <img src="screenshots/splash_screen.jpg" alt="splash screen" width="400"> 
-<img src="screenshots/splash_screen1.jpg" alt="global status board" width="400">
+<img src="screenshots/splash_screen2.jpg" alt="global status board" width="400">
 
 <img src="screenshots/global_status.jpg" alt="splash screen" width="400"> 
 <img src="screenshots/global_status1.jpg" alt="splash screen" width="400"> 
@@ -49,7 +49,7 @@ Make a pull request to contribute with me 😉.<br>
 <img src="screenshots/sidebarmenu1.jpg" alt="sidebar menu" width="400">
 
 <img src="screenshots/searching.jpg" alt="searching countries" width="400"> 
-<img src="screenshots/searching1.jpg" alt="searching countries" width="400">
+<img src="screenshots/searching2.jpg" alt="searching countries" width="400">
 
 <img src="screenshots/sorting.jpg" alt="sorting countries" width="400">
 <img src="screenshots/sorting1.jpg" alt="sorting countries" width="400">
@@ -67,7 +67,7 @@ Make a pull request to contribute with me 😉.<br>
 <img src="screenshots/country_piechart1.jpg" alt="as a chart" width="400">
 
 <img src="screenshots/searching.jpg" alt="search countries by name" width="400"> 
-<img src="screenshots/searching1.jpg" alt="search countries by name" width="400"> 
+<img src="screenshots/searching2.jpg" alt="search countries by name" width="400"> 
 
 
 <img src="screenshots/prevention.jpg" alt="prevention screen" width="400"> 
