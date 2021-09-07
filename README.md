@@ -14,7 +14,11 @@
 	<li><a href="https://pub.dev/packages/animated_theme_switcher" style="text-decoration: none; color: blue;">animated_theme_switcher</a></li>
 	<li><a href="https://pub.dev/packages/shared_preferences" style="text-decoration: none; color: blue;">shared_preferences</a></li>
 	<li><a href="https://pub.dev/packages/google_fonts" style="text-decoration: none; color: blue;">google_fonts</a></li>
+	<li><a href="https://pub.dev/packages/cupertino_icons" style="text-decoration: none; color: blue;">cupertino_icons</a></li>
 	<li><a href="https://pub.dev/packages/flutter_icons" style="text-decoration: none; color: blue;">flutter_icons</a></li>
+	<li><a href="https://pub.dev/packages/quick_actions" style="text-decoration: none; color: blue;">quick_actions</a></li>
+	<li><a href="https://pub.dev/packages/url_launcher" style="text-decoration: none; color: blue;">url_launcher</a></li>
+	<li><a href="https://pub.dev/packages/url_launcher_web" style="text-decoration: none; color: blue;">url_launcher_web</a></li>
 </ul>	
 
 Star⭐ the repo if you like this 😉.<br>
