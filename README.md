@@ -57,7 +57,7 @@ Make a pull request to contribute with me 😉.<br>
 <img src="screenshots/sidebarmenu1.jpg" alt="sidebar menu" width="400">
 
 <img src="screenshots/searching.jpg" alt="searching countries" width="400"> 
-<img src="screenshots/searching1.jpg" alt="searching countries" width="400">
+<img src="screenshots/searching2.jpg" alt="searching countries" width="400">
 
 <img src="screenshots/sorting.jpg" alt="sorting countries" width="400">
 <img src="screenshots/sorting1.jpg" alt="sorting countries" width="400">
